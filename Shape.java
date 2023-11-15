@@ -30,4 +30,4 @@ abstract public class Shape {
         return "Shape de couleur :" + color + " filled: " + filled;
     }
 }
-
+-
