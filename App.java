@@ -10,6 +10,7 @@ public class App {
         System.out.println(new App().getGreeting());
 
         public static void Circle (string[] args) 
+        System.out.println("coucou");
                 ;
     }
 }
